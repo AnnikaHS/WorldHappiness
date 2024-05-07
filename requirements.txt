@@ -1,6 +1,6 @@
-matplotlib
-seaborn
-plotly
-geopandas
-joblib
-scikit-learn
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.9.0
+geopandas==0.14.3
+joblib==1.2.0
+scikit-learn==1.3.0
